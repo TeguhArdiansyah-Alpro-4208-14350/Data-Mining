@@ -32,3 +32,4 @@ Setiap provinsi di Indonesia memiliki pola konsumsi makanan dan non-makanan yang
 - Insight dari analisis ini dapat digunakan untuk memahami pola konsumsi dan mendukung kebijakan distribusi sumber daya.
 - 
 # ITULAH RINGKASAN SINGKAT DARI DATASET UAS.ipynb
+## TERIMA KASIH/THANK YOU
